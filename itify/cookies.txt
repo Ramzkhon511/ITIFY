@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hubspot.com	TRUE	/	FALSE	1999999999	__cf_bm	Fipdgkiq4ukJpn8HnGV9k59LDrMwrcDQ1mo9BAVY7Kg-1692287041-0-AdA/93PvPeHocp/vvIEueO/gJK4Y8qQs5d/aJr2qtJy3P0LSbVFsmtCGvlpg+lxVM5YJx0T8e7jpnscSG/dt3mc=
+.safemoon.com	TRUE	/	FALSE	1999999999	__cf_bm	6PHz8LRUPT6.hv7N2qbZw62ncNRRpbEj0dFxG.Si2ZA-1692287134-0-AVyX6EWFqNdS0inhNdRPMSJb472ipxW6yZqzeAHCB0TkIehbxfJXgP0LJ5vDNTKuj9b5plUpLr0XAiX7gDitCJA=
+.safemoon.com	TRUE	/	FALSE	1999999999	__cfruid	1840070504659f24433597bb1fea52e5fcfd78c4-1692287134
+safemoon.com	TRUE	/	FALSE	1999999999	SameSite	None
+
